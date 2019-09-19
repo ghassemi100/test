@@ -1,6 +1,5 @@
 #!/bin/bash 
-	#----- 19/09/2019
-	#-------- for debugging use:  #!/bin/bash -xev
+	#----- for debugging use:  #!/bin/bash -xev
 	#................ #! is call shebang  this means call /bin/bash <filename>
 	#......... without this line, we execute our current shell (i.e cshell or kshell,..etc)
 	# http://blogs.perl.org/users/buddy_burden/2012/04/perl-vs-shell-scripts.html

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# shebang
+
+echo "hello"
+
+word='script'
+echo "$word"
